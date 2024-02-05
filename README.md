@@ -1,2 +1,5 @@
-# weeklynerd
-minor Web Design &amp; Development - vak WeeklyNerd
+# Weeklynerd 1
+
+Hoorcollege:
+
+
